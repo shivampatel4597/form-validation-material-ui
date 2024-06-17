@@ -4,8 +4,8 @@ import Form from './components/Form';
 
 function App() {
   return (
-    <div className="App  bg-gray-300 flex flex-col gap-4 items-center">
-    <h1 className='w-full py-8 bg-gray-300 text-4xl  text-black'>Form Using Material Ui</h1>
+    <div className="App  bg-[#ffffff]  ">
+    <h1 className='w-full py-8 bg-gray-100 text-2xl md:text-4xl  text-black'>Form Using Material Ui</h1>
     <Form/>
     </div>
   );
